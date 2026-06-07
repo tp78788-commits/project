@@ -1,4 +1,4 @@
-# Đồ án: Hệ thống điều khiển thiết bị điện IoT qua nhận dạng cử chỉ bàn tay 
+ Đồ án: Hệ thống điều khiển thiết bị điện IoT qua nhận dạng cử chỉ bàn tay 
 
 Sinh viên thực hiện: Phạm Sỹ Dũng
 Chuyên ngành: Kỹ thuật Robot và Trí tuệ nhân tạo - Trường Đại học Mỏ - Địa chất
